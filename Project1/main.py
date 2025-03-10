@@ -1,4 +1,3 @@
-# main.py
 import random
 import game_logic
 
